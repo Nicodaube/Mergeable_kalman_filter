@@ -1,0 +1,3 @@
+All the required files to produce the robot with
+- STL files for 3D printing using PLA at 0.2mm slice height
+- DXF files for laser cutting machine using 3mm plywood
